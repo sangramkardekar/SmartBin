@@ -4,4 +4,4 @@
 <p>3. If you are making any change in a an existing file or code individually, please create a new branch.</p>
 <p>4. This is a public repository so please make sure the content you upload is public domain or you have permission from the owner of         the content.</p>
 
-<p> We will update this landing page with major project details as we progress using Github flavored markdown</p>
+<p> We will update this landing page with major project details as we progress (using Github flavored markdown).</p>
