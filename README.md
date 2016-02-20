@@ -1,4 +1,8 @@
 # SmartBin
+
+<h2>Capstone Design Project</h2>
+<h3>Smart City Garbage Collection Using Internet of Things (IoT)</h3>
+
 <p>1. Please add any files you upload to the relevant folder.</p>
 <p>2. If the document type you are uploading doesn't have a folder, please create a new one and add a file titled 'Folder description'   with a line describing the contents of the new folder. This will preserve the repository's consistency.</p>
 <p>3. If you are making any change in a an existing file or code individually, please create a new branch.</p>
